@@ -11,7 +11,7 @@ West) move from house to house.
 There are houses where only exit action is applied and upon entering these houses
 , The robot gets the final reward which can be good or bad and then the game ends.
 
-● Created the policy_compute function in the problems_mdp file to calculate v<sub>k</sub> and π<sub>k</sub> in each iteration. (Value Iteration)
+● Created the policy_compute function in the mdp_problems file to calculate v<sub>k</sub> and π<sub>k</sub> in each iteration. (Value Iteration)
 
 ## Language
 This project is written in python.
