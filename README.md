@@ -13,6 +13,9 @@ There are houses where only exit action is applied and upon entering these house
 
 ● Created the policy_compute function in the problems_mdp file to calculate v<sub>k</sub> and π<sub>k</sub> in each iteration. (Value Iteration)
 
+## Language
+This project is written in python.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
